@@ -39,7 +39,7 @@ def main():
 
     # Print final sum
     print(sum)
-
+    exit()
 
 if __name__ == '__main__':
     main()
